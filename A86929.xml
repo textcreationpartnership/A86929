@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iust provocation of Master Tombes, to make good his generall charge against Mr VVilliam Hussey's satisfaction to his scepticall exercitation. / By William Hussey, Minister of the Gospell, at Chesilhurst in Kent.</title>
+            <author>Hussey, William, minister of Chiselhurst.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86929</idno>
+            <idno type="STC">Wing H3817</idno>
+            <idno type="STC">Thomason E357_6</idno>
+            <idno type="STC">ESTC R201148</idno>
+            <idno type="EEBO-CITATION">99861696</idno>
+            <idno type="PROQUEST">99861696</idno>
+            <idno type="VID">113837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113837)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E357[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iust provocation of Master Tombes, to make good his generall charge against Mr VVilliam Hussey's satisfaction to his scepticall exercitation. / By William Hussey, Minister of the Gospell, at Chesilhurst in Kent.</title>
+                  <author>Hussey, William, minister of Chiselhurst.</author>
+               </titleStmt>
+               <extent>[4], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Saywell, and are to be sold at his shop, at the signe of the Starre in little Brittain.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Tombes, John. Two treatises and an appendix to them concerning infant-baptisme (Wing T1825).</note>
+                  <note>Annotation on Thomason copy: "Octob: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tombes, John, 1603?-1676. --  Two treatises and an appendix to them concerning infant-baptisme --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113837:1"/>
+            <pb facs="tcp:113837:1" rendition="simple:additions"/>
+            <p>A IVST PROVOCATION OF MASTER <hi>TOMBES,</hi> TO Make good his generall charge againſt Mr VVILLIAM HUSSEY'S Satisfaction to his ſcepticall Exercitation.</p>
+            <p>By <hi>William Huſſey,</hi> Miniſter of the Goſpell, at <hi>Cheſilhurſt</hi> in <hi>Kent.</hi>
+            </p>
+            <q>
+               <bibl>1 Tim. 6.4, 5.</bibl>
+               <p>
+                  <hi>Hee is proud, knowing nothing, but doting about queſtions, and ſtrifes of words, whereof commeth envie, ſtrife, raylings, evill ſurmiſings, perverſe diſputings of men of corrupt mindes, and deſtitute of the truth.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Saywell,</hi> and are to be ſold at his ſhop, at the ſigne of the Starre in little Brittain. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113837:2"/>
+            <pb facs="tcp:113837:2"/>
+            <head>TO The Right Honourable the LORDS and COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honourable, Maſter <hi>Tombes</hi> having here<g ref="char:EOLhyphen"/>tofore ſet forth an Exercitation, in doubtfull termss againſt Childrens baptiſme; your Petitio<g ref="char:EOLhyphen"/>ner peruſing the ſeverall anſwers that were made to him ſeeing they walked in the tracke, and had not ſtated up the queſtion to the hight, as the Scriptures would afford, to the ſtopping the mouth of the Anabaptiſts; your Petitioner, as the neceſſary imployment of his cure would permit, hath put his hand to the worke, whereupon Maſter <hi>Tombes</hi> hath taken liberty to ſleight him, and accuſe him in generall termes with all kinde of miſtakes, citing two or three which are indeed no miſtakes but truths, wrapping up all the reſt thus: that his booke is nothing elſe but miſtakes, which is moſt uncivill, and in an Heretike, as your Petitioner humbly conceiveth, worthy your Honours cenſure; the rather becauſe he hath taken libertie to write againſt the Directory, and unjuſtly charging it with falſhood; calling it a cothurnus, fit<g ref="char:EOLhyphen"/>ter for a counſell of Trent, then a Proteſtant Church: And that upon a falſe ground, as your Petitioner will cleerly prove; ſo as Maſter <hi>Marſhall,</hi> who is concerned in the buſi<g ref="char:EOLhyphen"/>neſſe, and otherwiſe publiquely imployed, will put the mat<g ref="char:EOLhyphen"/>ter ever to him; and Maſter <hi>Tombes</hi> ſhall be firſt ordered
+<pb facs="tcp:113837:3"/>to anſwer his booke, or renounce his Anabaptiſme, which in civill right he ought to doe; generall charges being calum<g ref="char:EOLhyphen"/>nies, and not anſwers, ſo as they reflect on your Petitioner: and as the matter is Anabaptiſme it is of publike concern<g ref="char:EOLhyphen"/>ment. Your Petitioner doth humbly beſeech your Honours at leaſt to keepe theſe vaunting Heretiques within the bounds of civility, and not permit them to rayle at Orthodox Wri<g ref="char:EOLhyphen"/>ters and call them fooles without any reaſon, for writing ſuch things as the Learned Grammarians, and Tranſlatours of the Scripture will warrant them to write, leaving theſe writings they cannot anſwer, and yet perſiſt in their errours.</p>
+            <p>And for that <hi>Bachelor,</hi> your Petitioner doth humbly de<g ref="char:EOLhyphen"/>ſire that he may not any longer be permitted to licence books, unleſſe he had more skill to looke unto them, for that he hath put the ſtampe of Learning, Ingenuity, Piety, upon ſuch a pamphlet as hath rayled at the Directory &amp; other Orthodox Writers without ground. I wiſh that ſome ſchoole of Divini<g ref="char:EOLhyphen"/>ty were ſet up, where Maſter <hi>Tombes</hi> and ſuch other diſ<g ref="char:EOLhyphen"/>contented perſons might have full liberty to vent their opi<g ref="char:EOLhyphen"/>nions, and not permitted to poyſon the people.</p>
+            <closer>
+               <signed>Your Honours<lb/> humble Servant,<lb/> VVILLIAM HUSSEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:113837:3"/>
+            <head>A Provocation of Maſter <hi>Tombes,</hi> to make good his charge, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aſter <hi>Tombes</hi> met with my booke and read it, and beginneth with the title as though he would an<g ref="char:EOLhyphen"/>ſwer it, but after he findeth an excuſe, why he ſhould not; he onely findeth ſome few abſurdi<g ref="char:EOLhyphen"/>ties, which had they beene faulty, as he preten<g ref="char:EOLhyphen"/>deth, might have better excuſed him for ſligh<g ref="char:EOLhyphen"/>ting the reſt: but if thoſe which he findeth fault with, be unjuſt<g ref="char:EOLhyphen"/>ly called abſurdities and errours, the generall will appeare to be unjuſt, untill he anſwer the booke: I ſhall firſt cleere my ſelfe of thoſe faults which he chargeth upon me.</p>
+            <p>The firſt is, that I called his exercitation ſcepticke, which he clecreth, by ſetting downe out of Gellius, that <hi>a ſcepticke deter<g ref="char:EOLhyphen"/>mineth nothing but alwayes ſtands conſidering and ſeeking,</hi> which he proves to be unduly placed upon his exercitation, becauſe Mr <hi>M<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſhall ſaith, he is too confident:</hi> and becauſe <hi>his examen is poſi<g ref="char:EOLhyphen"/>tive:</hi> what if Maſter <hi>Marſhall</hi> upon ſome occaſion doth accuſe Maſter <hi>Tombes</hi> of too much confidence? is not his exercitation therefore ſcepticke? may not Maſter <hi>Tombes</hi> in ſome things be too confident, and yet his exercitation remaine ſcepticall? or is this a good argument, to prove his exercitation not ſcepticall, be<g ref="char:EOLhyphen"/>cauſe his examen is poſitive? he confeſſeth, that <hi>he did propoſe his thoughts in his exercitaion to the Committee of the Aſſembly</hi> (as he <hi>conceived befitting him) under the for<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of doubts:</hi> I blame him not for being doubtfull, I wiſh he had continued doubtfull ſtill, untill he had received ſatisfaction: but I ſay as he confeſſeth, <hi>his exercitation was ſcepticall and doubtfull,</hi> but do I therefore ac<g ref="char:EOLhyphen"/>cuſe
+<pb n="2" facs="tcp:113837:4"/>him of <hi>adhering to nothing in ſenſe, reaſon, or faith,</hi> he ſaith, <hi>(if I underſtood what I ſay)</hi> by ſaying that his exercitation is ſcepticke, I do ſo accuſe him: but if he underſtood what he ſaid, he would not ſay ſo, what is an argument <hi>a particulari ad univer<g ref="char:EOLhyphen"/>ſale</hi> good; Mr <hi>Tombes</hi> is ſcepticke in his exercitation therefore in every thing? Mr <hi>Tombes</hi> his exercitation and examen are a<g ref="char:EOLhyphen"/>gainſt Paedobaptiſts, therefore every Sermon he maketh, every word he ſpeaketh, is againſt Paedobaptiſts, were no good argu<g ref="char:EOLhyphen"/>ment; but Maſter <hi>Tombes</hi> ſaith, <hi>he could give better reaſon, to call me fantaſticke, then I bring for this new name I pin on him:</hi> truly, I brought no reaſon for calling it ſcepticke, it was <hi>notum per ſe,</hi> it was doubtfull, all men at firſt view may perceive, and Maſter <hi>Tombes</hi> is conſtreined to confeſſe it; neither doth he bring any reaſon for his deniall, but the groſſeſt and moſt illite<g ref="char:EOLhyphen"/>rate follie in the world, there is not ſhew enough to make it a fal<g ref="char:EOLhyphen"/>lacy, <hi>becauſe his examen is not, his exercitation</hi> is not <hi>ſcepticke,</hi> but when he doth bring forth thoſe reaſons he can to prove me fantaſticke by, he ſhall have anſwers, or thankes for diſcloſing my infirmity to me; I will not ſerve him, as he doth me; rayle at his arguments, I dare not touch.</p>
+            <p>I terme my booke <hi>ſatisfaction to his exercitation,</hi> I intended it ſo, and I hope it will prove ſo to the judgement of the learned, though Maſter <hi>Tombes</hi> will take none: becauſe he was not ſcep<g ref="char:EOLhyphen"/>ticall at firſt, but a confirmed Hereticke, and an Hypocrite, appea<g ref="char:EOLhyphen"/>ring under doubtfull termes; and had I knowne the deceiptful<g ref="char:EOLhyphen"/>neſſe of Maſter <hi>Tombes's</hi> heart, I would not have graced his booke with the name of ſcepticke, to be doubtfull in matters of errour, is farre better then to be poſitive; ſo the word ſcepticke was given in favour, not in malice; from ſound reaſon, not fan<g ref="char:EOLhyphen"/>cy, whatſoever Maſter <hi>Tombes</hi> ſaith. For my book, I hope it ſhall not, diſgrace the judicious Licenſer, but I ſhall get from the Licenſer of your booke, and your ſelfe, better ſatisfaction by the <hi>Lords</hi> and <hi>Commons</hi> (that ſit to doe us all juſtice) then to beſpat<g ref="char:EOLhyphen"/>ter you with ſome few flaſhing words.</p>
+            <p>I conceive I have ſtated up the queſtion out of Scripture ſo, as may make all Anabaptiſts ſeale up their mouths (as it hath alrea<g ref="char:EOLhyphen"/>dy ſealed up yours) you finde ſome paſſages ſomething varying
+<pb n="3" facs="tcp:113837:4"/>from the common tenet which you repreſent to the common view, without entring into the ſtate of the queſtion, requiring it or conſidering the ſtrength of the arguments that prove it, or the Scriptures that evince it: whatſoever I have affirmed in my booke that you have not anſwered, I ſhall endevour to make good, when I ſhall receive a juſt call ſo to do; In the meane time I addreſſe my ſelfe to anſwer what Maſter <hi>Tombes</hi> further ſaith againſt me.</p>
+            <p>Having repeated ſundry paſſages of my booke, he falleth up<g ref="char:EOLhyphen"/>on ſome ſmall confutation, his words are. <hi>Nor doe I thinke the principall grounds of his new fancy will ſatisfie; that,</hi> Matth. 28.19, <hi>is thus to be expounded, make Diſciples by baptizing, and teaching them; whereas he himſelfe ſundry times readeth it better, make Diſciples of all Nations baptizing them, and it is vainly alleadged that</hi> [by] <hi>is implyed in the participiall expreſſion any more then <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> muſt be expounded, he met them by ſaying, or</hi> Math. 27.55. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>they followed by miniſtering unto him, and I ſaid juſtly Examen</hi> pag. 127. <hi>this conceipt is ſo abſurd, that I preſume none that hath any Wit will entertain it, though Maſter</hi> Huſſey <hi>ſay</hi> pag. 6. <hi>I thinke, if ever a man were out of his Wit, it was here; but I ſhall be willing the Aſſembly judge whether of us two need ſayle to Anticyra, to purge our braines.</hi> After a long collection of many words here and there in my booke, which he repreſenteth as abſurd, (where<g ref="char:EOLhyphen"/>as my new conceipts, as he hath obſerved them are ſundrie, and have their ſeverall grounds which he concealeth,) he ſaith the principall grounds of my conceipt is, <hi>that the</hi> 28. <hi>of Math.</hi> 19. <hi>ought to be expounded, make Diſciples by baptizing them, though I ſundry times read it better.</hi> I never read the words ſo, but it is true in the ſtating the queſtion I did take the liberty of an anſwerer to expound them ſo, <hi>make Diſciples baptizing them,</hi> make Diſciples by baptizing them; which I ſaid was implied in the participiall expreſſion, wherein I am confident the beſt Grammarians will beare me out. <hi>Clenard medit. Gracanic<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> pag. 281.40. <hi>participium varie redditur nune adverſum quid<g ref="char:EOLhyphen"/>dam indicans, nunc cauſam explicans, preinde quae participiae Gracia efferuntur nos latiui<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate donavimus per ejuſmedi conjunctionem quae commodiſſime facit ad ſenſum.</hi>
+            </p>
+            <pb n="4" facs="tcp:113837:5"/>
+            <p> The participle, ye ſee is variouſly rendred; ſometimes it doth declare the cauſe, and if the participle do expreſſe the cauſe, then the cauſe may be expounded by the word <hi>[by,]</hi> and if in render<g ref="char:EOLhyphen"/>ing Greeke into Latine we may expreſſe the Greeke participle by any conjunction that the ſenſe will be are; why may we not ex<g ref="char:EOLhyphen"/>preſſe it by a prepoſition, that the ſenſe will beare? the word con<g ref="char:EOLhyphen"/>junction in ſome latitude of Language may be called a prepoſiti<g ref="char:EOLhyphen"/>on, a word joyned to fill up the ſenſe; which when the partici<g ref="char:EOLhyphen"/>ple doth ſignifie the cauſe as here it may, the formall cauſe of ma<g ref="char:EOLhyphen"/>king Diſciples; why may it not be rendred by <hi>[by] ſcire eſt per cauſam ſcire?</hi> I ſaid it might ſignifie <hi>modum agendi,</hi> this I have li<g ref="char:EOLhyphen"/>berty to doe, as an anſwerer to interpret Scriptute as I pleaſe; if I doe it as the words will not beare, Maſter <hi>Tombes</hi> hath his liber<g ref="char:EOLhyphen"/>ty to confute it by an argument: but ſee how Maſter <hi>Tombes</hi> doth confute it, by alleadging two places of Scripture, where he con<g ref="char:EOLhyphen"/>ceiveth the participle may not conveniently be rendred by <hi>[by:]</hi> now ſee the ſtrength of this confutation, <hi>participium</hi> ſaith <hi>Cle<g ref="char:EOLhyphen"/>nard, varie redditur:</hi> a participle is variouſly rendred, the partici<g ref="char:EOLhyphen"/>ple cannot be rendred by <hi>[by]</hi> in Mr <hi>Tombes</hi> his aſſigned places, therefore no where, therefore not in the place by me interpreted; this is to take away <hi>Clenards</hi> rule, and the variety of rendering participles, if participles be variouſly rendred, then in ſome pla<g ref="char:EOLhyphen"/>ces they are rendred one way; in other places another, or elſe there can be no variety: Maſter <hi>Tombes</hi> therefore muſt finde out ſome better argument, to prove that the participle may not be rendred by <hi>[by:]</hi> beſides that, I ſaid the participle might ſignifie <hi>modum agendi,</hi> and even in the places alleadged by Mr <hi>Tombes,</hi> the participles doe ſignifie the manner of doing. Jeſus met them ſaying, <hi>all hayl</hi> doth not this ſaying <hi>all hail</hi> enter into the manner of the congreſſe, if the meeting of any 2 perſons ſhould be hiſtori<g ref="char:EOLhyphen"/>cally related, would not the hiſtory be lame if their conference were left out? &amp; for that of <hi>Mat.</hi> 27.55. they followed him mini<g ref="char:EOLhyphen"/>ſtering unto him: doth not this miniſtering unto him ſignifie the manner of their following him? that they followed him not dire<g ref="char:EOLhyphen"/>cting him that had been as guides, or maſters; but miniſtering as friends or ſervants helping him to ſuch things as he ſtood in need of, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doing ſuch things fo<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him as he required. Maſters doe uſe to
+<pb n="5" facs="tcp:113837:5"/>follow their ſervants, to looke to them in their worke; and ſer<g ref="char:EOLhyphen"/>vants their maſters, to miniſter unto them; and theſe followings (doe differ) <hi>modo agendi,</hi> they are different followings: but I am not ſo ſtreightly tyed up, that if in this place the participle do ſig<g ref="char:EOLhyphen"/>nifie, <hi>[by]</hi> that it muſt ſo ſignifie in all places; but Maſter <hi>Tombes</hi> ſaith, that <hi>it was ſo feoliſh, that none would entertaine it that hath any Wit:</hi> to which I ſaid in my book, that Maſter <hi>Tomb<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> not<g ref="char:EOLhyphen"/>withſtanding he had ſayd, <hi>none would entertaine it that hath any Wit;</hi> yet he proveth it no better then by ſaying, <hi>if this were true,</hi> they need onely baptize them, and not teach them: notwith<g ref="char:EOLhyphen"/>ſtanding Chriſt commanded both to baptize them, and teach them; and for this I ſaid, if any were out of his Wit, it was here; and this willingly I referre to the Aſſembly, whether any but he, that were out of his Wit could affirme, that if Chriſt command to baptize and teach, it were ſufficient to baptize, or that they need onely baptize; is a command conteining diverſe things in conjunctive termes, executed by performing one part alone, and leaving the other part undone. I hope the Aſſembly will doe us that right, to judge which of us two are out of our Wit, for one of us muſt needs be unadviſed. Maſter <hi>Tombes</hi> tal<g ref="char:EOLhyphen"/>keth of a purge, to purge his braine; certainly he is full of fowle matter, for he vomiteth much bitterneſſe, and blacke ca<g ref="char:EOLhyphen"/>lumnies againſt me: my booke is nothing but miſtakes, ſure he is ſicke, he cannot ſpeake ſenſe; he is light headed, it is the ſtrength of his diſeaſe; he divideth my miſtakes, into miſtakes <hi>in Logick, Divinity, and ſometimes in Grammer, but moſt of all of his meaning, and ſcope of his words, and ſtrength of his arguments.</hi> See here be foure kindes of miſtakes, Logicke, Divinity and Grammer, he meaneth ſure Engliſh Grammer, by the miſtake of the Printer; or haſte in the buſineſſe; but the fowleſt is, in his meaning, ſcope of his words, force of his arguments, it ſeemeth he hath a ſenſe, and his arguments have a force, that neither Grammer, Logick, nor Divinity can finde cut: what kinde of words and arguments be theſe that a man may miſſe in, when he doth not miſſe either in Grammer or in Logick (let Divinity alone) Rhetoricall arguments have no ſtrength, but as they may be reduced to Logick?</p>
+            <pb n="6" facs="tcp:113837:6"/>
+            <p> Surely, if he have any ſuch meanings in his arguments, that Logick cannot finde out, I may be miſtaken in them; and ſuch is the ſence of ſome of them: for, by rules of Logick they have no ſenſe at all, as I have made plainly appeare; but let me tell Mr <hi>Tombes,</hi> his generall charges be illegall, and not allowable in any civill commerce, and coſts are juſtly awarded, and loſſe of his cauſe, againſt any that layeth onely generall charges in declarati<g ref="char:EOLhyphen"/>on againſt an adverſary, as your neighbour-Lawyers will tell you: you are bound in common right, to give me ſatisfaction, and convict me of theſe miſtakes; when you tell the world, that knowe not what Logicke, Grammer and Divinity meaneth; that my booke is nothingelſe but ſuch miſtakes: or elſe men of judge<g ref="char:EOLhyphen"/>ment muſt condemne Maſter <hi>Tombes</hi> for a ſenſleſſe ignorant ray<g ref="char:EOLhyphen"/>ler; but let Maſter <hi>Tombes</hi> candidly ſhew any miſtakes in Lo<g ref="char:EOLhyphen"/>gicke, or any of theſe on which the ſtate of the queſtion doth de<g ref="char:EOLhyphen"/>pend, and I ſhall love him, and thanke him for his labour: Mr <hi>Tombes</hi> telleth me that I end with a challenge to him, but he ma<g ref="char:EOLhyphen"/>keth more account of his time, then to anſwer my wild notions: truly it ſeemeth my notions are too wild for him, to catch; ſuch as will caſt their rider if he be an Antepaedobaptiſt. If he had let them alone, and not rayled at them, he might have choſen whe<g ref="char:EOLhyphen"/>ther he would have anſwered them or no; but now he is bound in reaſon and charity, to make his generall charges good in parti<g ref="char:EOLhyphen"/>cular. Anſwer them, perhaps he will not, becauſe he cannot; then better words would have becomm'd him.</p>
+            <p>He will not anſwer my challenge, he dealeth very plainly with the world therein. <hi>I challenged him, not to anſwer my booke, but to produce ſome argument from Scripture, or ſound reaſon, that ſhall reaſonably conclude from the words, without any adding or ſubſtracting, which may agree with the ſenſe of the words produ<g ref="char:EOLhyphen"/>ced.</hi> This challenge he refuſeth, which in plaine termes, is to af<g ref="char:EOLhyphen"/>firme, that he will never argue againſt Infant-baptiſme, either from Scripture, or ſound reaſon; but he will adde or diminiſh ſomething from them: wherein if he be as good as his word, he will keep his old cuſtome.</p>
+            <p>He further telleth me, that he will not anſwer my booke, un<g ref="char:EOLhyphen"/>leſſe he have time to write a booke to make ſport withall; ſurely
+<pb n="7" facs="tcp:113837:6"/>I did not write my booke with that levity of ſpirit to make Maſter <hi>Tombes</hi> ſport, but vindicate truth, and to confute his er<g ref="char:EOLhyphen"/>rour; but if he will needs dance, I make no queſtion but I ſhall make him dance naked, wlthout any ragge of truth or reaſon to cover his ſhame from the view of all the world.</p>
+            <p>Laſt of all, Maſter <hi>Tombes</hi> doth charme me to hold my peace, and ſcoffeth at Divinity ſchooles; which if Maſter <hi>Tombes</hi> and I had, I confeſſe we ſhould both write better: but in the meane time, I ſhall make a ſhift to write well enough, to finde Maſter <hi>Tombes</hi> his vanities, if he write no better then yet he hath done; and as for holding my peace, for Syons ſake I cannot, as long as any Antipaedobaptiſts dare ſo boldly out-face the truth.</p>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <p>HAving committed this anſwer to the preſſe, I thought good to acquaint my Reader with ſome more confirmation, that a participle may be rendred[by.] Firſt Scotus, <hi>pag.</hi> 681. telleth us, that the participle may be rendred by the gerund in <hi>do,</hi> which is rendred in Engliſh [by:] and the tranſlatours of the Engliſh Bible have tranſlated participles [by] <hi>Math.</hi> 6.27. which of you by ta<g ref="char:EOLhyphen"/>king care <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: and in <hi>Rom.</hi> 12.20. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in ſo doing, which is all one by ſo doing. So gentle Reader, if I be a foole for ſaying, that the participle may be rendred [by:] I am not ſo alone, nor without rule and reaſon to walke by.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
